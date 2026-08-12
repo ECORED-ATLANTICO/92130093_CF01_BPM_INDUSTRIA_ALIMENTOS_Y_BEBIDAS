@@ -38,7 +38,7 @@
             figure
               img(src="@/assets/curso/tema3/img03.png", alt="Programa de limpieza y desinfección")
           .crd_hover_txt--body.bg-color-2.pd-1-2
-            h4.mb-3.text-center Programa de limpieza y desinfección
+            h4.mb-4.text-center Programa de limpieza y desinfección
             p.mb-0 Establece los procedimientos estandarizados de limpieza y desinfección de instalaciones, equipos y utensilios. Incluye fichas técnicas, concentraciones, frecuencias y responsables de cada actividad. Su eficacia se verifica mediante inspección visual, pruebas de ATP o análisis microbiológicos.
 
       .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
@@ -47,7 +47,7 @@
             figure
               img(src="@/assets/curso/tema3/img04.png", alt="Programa de control de plagas y vectores")
           .crd_hover_txt--body.bg-color-2.pd-1-2
-            h4.mb-3.text-center Programa de control de plagas y vectores
+            h4.mb-4.text-center Programa de control de plagas y vectores
             p.mb-0 Comprende las actividades de manejo integrado de plagas (MIP), incluyendo monitoreo, medidas preventivas, controles físicos y químicos realizados por empresas autorizadas y el registro de las intervenciones.
 
       .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
@@ -56,7 +56,7 @@
             figure
               img(src="@/assets/curso/tema3/img05.png", alt="Programa de abastecimiento de agua potable")
           .crd_hover_txt--body.bg-color-2.pd-1-2
-            h4.mb-3.text-center Programa de abastecimiento de agua potable
+            h4.mb-4.text-center Programa de abastecimiento de agua potable
             p.mb-0 Garantiza que el agua utilizada durante la producción cumpla con los requisitos de potabilidad mediante controles periódicos, mantenimiento de tanques y análisis fisicoquímicos y microbiológicos.
 
       .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
@@ -65,7 +65,7 @@
             figure
               img(src="@/assets/curso/tema3/img06.png", alt="Programa de manejo de residuos sólidos y líquidos")
           .crd_hover_txt--body.bg-color-2.pd-1-2
-            h4.mb-3.text-center Programa de manejo de residuos sólidos y líquidos
+            h4.mb-4.text-center Programa de manejo de residuos sólidos y líquidos
             p.mb-0 Establece los procedimientos para la separación en la fuente, el almacenamiento temporal, la recolección y la disposición final de los residuos generados durante el proceso productivo.
 
 
@@ -226,7 +226,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/img16.png", alt="Preparación de soluciones desinfectantes")
-          .crd_hover_txt--body.pd-1-3
+          .crd_hover_txt--body.pd-1-2
             h4.mb-3.text-center Registro de preparación de soluciones desinfectantes
             p.mb-0 Un formato para llevar el control de la preparación de las soluciones, verificando que se respeten las concentraciones indicadas (ej. "para preparar 10 litros de solución de hipoclorito a 200 ppm, se agregaron X ml de hipoclorito al 5 %").
 
@@ -235,7 +235,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/img17.png", alt="Verificación de limpieza y desinfección")
-          .crd_hover_txt--body.pd-1-3
+          .crd_hover_txt--body.pd-1-2
             h4.mb-3.text-center Registro de verificación de la limpieza y desinfección
             p.mb-0 Un formato que puede ser diligenciado por un supervisor, mediante la toma de muestras con hisopos en superficies para verificar la eficacia de la limpieza (pruebas de ATP o recuento microbiológico) o simplemente mediante inspección visual.
 
