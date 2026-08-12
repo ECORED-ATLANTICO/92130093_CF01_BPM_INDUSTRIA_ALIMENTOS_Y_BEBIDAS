@@ -168,7 +168,7 @@
 
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-8.col-md-12.mb-0.mb-lg-0
+      .col-lg-12.col-xl-8.col-md-12.mb-0.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-3
           h5 
             b Tabla 2.
