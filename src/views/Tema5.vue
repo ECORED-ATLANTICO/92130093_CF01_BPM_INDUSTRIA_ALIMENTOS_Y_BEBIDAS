@@ -49,7 +49,7 @@
           .tarjeta.bg-color-3.h-100
             .p-4
               h4 Inspección del producto
-              p.mb-0 Se toman muestras del producto terminado para verificar que cumple con sus especificaciones de calidad: peso, color, textura, sabor, empaque y etiquetado. Esta inspección puede ser visual o requerir análisis de laboratorio.
+              p.mb-0 Se toman muestras del producto terminado para verificar que cumple con sus especificaciones de calidad (peso, color, textura, sabor, empaque y etiquetado). Esta inspección puede ser visual o requerir análisis de laboratorio.
 
     p.mb-3 Los resultados de todas estas inspecciones deben quedar registrados.
 
@@ -83,7 +83,7 @@
             p.mb-0 ¿Se puede reprocesar? ¿Se puede reclasificar para otro uso? ¿Debe ser desechado? Esta decisión la toma una persona autorizada.
 
           .row(numero="4" titulo="Analizar la causa")
-            p.mb-0 ¿Por qué ocurrió la no conformidad? (Ej. falta de capacitación, un equipo descalibrado, una materia prima defectuosa).
+            p.mb-0 ¿Por qué ocurrió la no conformidad? (Ej., falta de capacitación, un equipo descalibrado, una materia prima defectuosa).
 
 
 

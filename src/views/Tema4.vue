@@ -36,7 +36,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img03.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Ninguna persona que padezca una enfermedad transmisible, tenga heridas infectadas, infecciones cutáneas o diarrea puede trabajar en la manipulación de alimentos. Debe reportar su condición a su supervisor.
+                p.mb-0 Ninguna persona que padezca una enfermedad transmisible tenga heridas infectadas, infecciones cutáneas o diarrea, puede trabajar en la manipulación de alimentos. Debe reportar su condición a su supervisor.
 
           div(titulo="Baño diario")
             .row.align-items-center.justify-content-center
@@ -44,7 +44,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img04.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Es indispensable que el manipulador de alimentos llegue limpio al trabajo. La higiene corporal diaria es la base para evitar la contaminación de los alimentos por microorganismos presentes en la piel.
+                p.mb-0 Es indispensable que el manipulador de alimentos llegue limpio al trabajo.
 
           div(titulo="Uniforme completo y limpio")
             .row.align-items-center.justify-content-center
@@ -52,7 +52,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img05.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 El uniforme debe incluir: chaqueta o delantal (claro para detectar suciedad), pantalón, gorro que cubra totalmente el cabello, calzado antideslizante y de seguridad. Si se usa barba o bigote, se debe usar tapabocas.
+                p.mb-0 Este debe incluir: chaqueta o delantal (claro para detectar suciedad), pantalón, gorro que cubra totalmente el cabello, calzado antideslizante y de seguridad. Si se usa barba o bigote, se debe usar tapabocas.
 
           div(titulo="Uñas")
             .row.align-items-center.justify-content-center
@@ -60,7 +60,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img06.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Las uñas deben estar cortas, limpias y sin esmalte. Las uñas largas o con esmalte pueden retener suciedad, bacterias y fragmentos que contaminen los alimentos.
+                p.mb-0 Deben estar cortas, limpias y sin esmalte.
 
           div(titulo="Joyas y accesorios")
             .row.align-items-center.justify-content-center
@@ -68,7 +68,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img07.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Está prohibido el uso de anillos, aretes, relojes, cadenas o cualquier otro adorno, ya que son focos de acumulación de suciedad y pueden caer en los alimentos, convirtiéndose en un peligro físico.
+                p.mb-0 Está prohibido el uso de anillos, aretes, relojes, cadenas o cualquier otro adorno, ya que son focos de acumulación de suciedad y pueden caer en los alimentos.
 
 
 
@@ -124,7 +124,7 @@
           .tarjeta.bg-color-3
             .p-4
               h4 Después de manipular alimentos crudos
-              p.mb-0 Antes de tocar alimentos cocidos. Para evitar la contaminación cruzada, este lavado es crítico e ineludible.
+              p.mb-0 Antes de tocar alimentos cocidos. ¡Alto! Para evitar la contaminación cruzada, este lavado es crítico e ineludible.
 
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-0
         .tarjeta-avatar-b
@@ -175,7 +175,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
         .bg-color-7.p-4.br-15
-          p.mb-0 A continuación, escuche el siguiente podcast, en el que se amplían los contenidos relacionados con la higiene del personal manipulador y la importancia del lavado de manos como una de las principales medidas para prevenir la contaminación de los alimentos.
+          p.mb-0 A continuación, se presenta el siguiente pódcast, en el que se amplían los contenidos relacionados con la higiene del personal manipulador y la importancia del lavado de manos como una de las principales medidas para prevenir la contaminación de los alimentos.
 
 
 
@@ -189,7 +189,7 @@
             .col-lg-7.order-1.order-md-1.order-lg-2.p-4.p-lg-3
               p(data-aos="fade-left").mb-4 A continuación, se invita a ir al siguiente podcast: 
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Operaciones seguras de cargue, descargue y manejo de equipos en la logística"
+                texto="Lavado de manos: la primera barrera contra la contaminación."
                 tiempo
                 :audio="require_src('@/assets/curso/audio/2.mp3')"
               )
@@ -222,7 +222,7 @@
       .col-lg-8.order-2.order-lg-2
         p.mb-2.mb-lg-0 <b>Objetivo:</b> ¿Qué se va a limpiar y desinfectar?
         p.mb-2.mb-lg-0 <b>Responsable:</b> ¿Quién lo hace?
-        p.mb-2.mb-lg-0 <b>Frecuencia:</b> ¿Cada cuánto se hace? (ej. diario, cada 4 horas, al finalizar la producción).
+        p.mb-2.mb-lg-0 <b>Frecuencia:</b> ¿Cada cuánto se hace? (ej., diario, cada 4 horas, al finalizar la producción).
         p.mb-2.mb-lg-0 <b>Elementos de protección personal (EPP):</b> ¿Qué debe usar el operario? (guantes de nitrilo, delantal impermeable, gafas).
         p.mb-2.mb-lg-0 <b>Insumos y materiales:</b> ¿Qué productos y utensilios se necesitan? (detergente, desinfectante, esponjas, cepillos, baldes, paños de un solo uso).
         p.mb-0 <b>Procedimiento paso a paso:</b> descripción detallada y secuencial de las actividades.
@@ -293,9 +293,9 @@
                 figure
                   img(src="@/assets/curso/tema4/img26.png", data-aos="zoom-in").mx-auto
               .col-lg-7.order-1.mb-3.mb-lg-0
-                p.mb-1 Se utiliza una solución de un desinfectante químico aprobado para uso en alimentos. Los principales son: 
-                p.mb-1 Cloro (Hipoclorito de sodio): el más común y económico. Se usa a 100-200 ppm en superficies en contacto con alimentos. Se aplica y deja actuar 5-10 minutos. Puede requerir enjuague posterior.
-                p.mb-1 Amonios cuaternarios: dejan una película residual y no requieren enjuague en superficies no críticas. Efectivos contra un amplio espectro de microorganismos.
+                p.mb-1 Se utiliza una solución de un desinfectante químico aprobado para uso en alimentos.
+                p.mb-1 Cloro (hipoclorito de sodio): es el más común y económico. Se usa a concentraciones de 100 - 200 ppm (partes por millón) para superficies en contacto con alimentos. Se aplica y se deja actuar durante 5 - 10 minutos. Luego, en superficies que tocarán alimentos directamente, se puede requerir un enjuague con agua potable.
+                p.mb-1 Amonios cuaternarios: son desinfectantes que dejan una película residual y no requieren enjuague en superficies no críticas. Son efectivos contra un amplio espectro de microorganismos.
                 p.mb-0 Yodóforos: soluciones de yodo, efectivas, pero pueden manchar algunas superficies.
 
 
@@ -362,7 +362,7 @@
           .row(numero="2" titulo="Identificación")
             p.mb-0 Es crucial identificar correctamente la plaga para saber cómo combatirla de la mejor manera.
 
-          .row(numero="3" titulo="Prevención (Medidas pasivas)")
+          .row(numero="3" titulo="Prevención (medidas pasivas)")
             p.mb-3 Es el pilar más importante y sostenible. Consiste en eliminar las condiciones que atraen y permiten la supervivencia de las plagas. Esto incluye:
             ul.lista-ul.mb-0
               li
@@ -381,8 +381,8 @@
                 i.lista-ul__vineta(style="color: #8AB064")
                 | Mantenimiento de las áreas externas: poda de césped y jardines, eliminación de agua estancada.
 
-          .row(numero="4" titulo="Control (Medidas activas)")
-            p.mb-3 Cuando, a pesar de la prevención, aparece una plaga, se deben aplicar medidas de control:
+          .row(numero="4" titulo="Control (medidas activas)")
+            p.mb-3 Cuando a pesar de la prevención aparece una plaga, se deben aplicar medidas de control.
             ul.lista-ul.mb-0
               li
                 i.lista-ul__vineta(style="color: #8AB064")
@@ -465,7 +465,7 @@
             ul.lista-ul.mb-0
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Condiciones del vehículo de transporte: limpieza y temperatura.
+                | Condiciones del vehículo de transporte (limpieza, temperatura).
               li
                 i.lista-ul__vineta(style="color: #B37900")
                 | Empaques: que estén íntegros, sin roturas, humedad o signos de contaminación.
@@ -474,10 +474,10 @@
                 | Fecha de vencimiento: el producto debe tener una vida útil suficiente.
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Características organolépticas: olor, color y textura acordes a lo esperado.
+                | Características organolépticas: olor, color, texturas acordes a lo esperado.
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Temperatura: si es un producto perecedero (lácteos, carnes), se mide la temperatura interior para verificar que la cadena de frío no se haya roto.
+                | Temperatura: si es un producto perecedero (lácteos, carnes), se debe medir la temperatura al interior del producto para verificar que la cadena de frío no se haya roto.
               li
                 i.lista-ul__vineta(style="color: #B37900")
                 | Toda esta información se registra en un formato de "recepción de materias primas".
@@ -487,16 +487,16 @@
             ul.lista-ul.mb-0
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Productos secos (harinas, azúcares, granos): se almacenan en un lugar fresco, seco y ventilado, sobre estibas separadas del piso (mínimo 15 cm) y de la pared (mínimo 50 cm) para permitir la limpieza e inspección.
+                | Productos secos (harinas, azúcares, granos): se almacenan en un lugar fresco, seco y ventilado, sobre estibas separadas del piso (mínimo 15 cm) y separados de la pared (mínimo 50 cm) para permitir la limpieza y la inspección.
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Productos refrigerados (lácteos, huevos, algunas frutas): se almacenan en cámaras de refrigeración entre 2 °C y 5 °C.
+                | Productos refrigerados (lácteos, huevos, algunas frutas): se almacenan en cámaras de refrigeración a temperaturas entre 2 °C y 5 °C.
               li
                 i.lista-ul__vineta(style="color: #B37900")
                 | Productos congelados (carnes, verduras congeladas): se almacenan en congeladores a -18 °C o menos.
 
           div(titulo="Rotación de inventarios (PEPS - Primero en Entrar, Primero en Salir)")
-            p.mb-0 El método PEPS (Primero en Entrar, Primero en Salir) es fundamental para evitar el vencimiento de productos. Consiste en colocar los productos nuevos (con fecha de vencimiento más lejana) detrás de los más antiguos (con fecha de vencimiento más cercana), para que estos últimos sean los primeros en usarse.
+            p.mb-0 Es un método fundamental para evitar el vencimiento de productos. Consiste en colocar los productos nuevos (con fecha de vencimiento más lejana) detrás de los productos más antiguos (con fecha de vencimiento más cercana), para que estos últimos sean los primeros en usarse.
 
       .col-lg-4.col-md-8
         img(src="@/assets/curso/tema4/img36.png", data-aos="zoom-in")
@@ -527,7 +527,7 @@
             p.mb-0 Se deben controlar los tiempos de procesos como batido, cocción, enfriamiento y desinfección (tiempo de contacto del desinfectante).
 
           .row(numero="3" titulo="Concentraciones")
-            p.mb-0 En la preparación de soluciones desinfectantes o en la estandarización de productos (ej. jarabes, salmueras), se deben verificar las concentraciones con los instrumentos adecuados (ej. refractómetro, clorímetro).
+            p.mb-0 En la preparación de soluciones desinfectantes o en la estandarización de productos (ej., jarabes, salmueras), se deben verificar las concentraciones con los instrumentos adecuados (ej., refractómetro, clorímetro).
 
     
     .row.mb-5.justify-content-center.align-items-center

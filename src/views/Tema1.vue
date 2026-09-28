@@ -34,7 +34,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/img03.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) constituyen un conjunto de principios, requisitos y procedimientos de cumplimiento obligatorio, orientados a garantizar la inocuidad y la calidad de los alimentos durante todas las etapas de la cadena productiva. Su aplicación se fundamenta en el manejo higiénico de los alimentos, con el propósito de obtener productos seguros para el consumo humano.
+        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) son una herramienta básica para la obtención de productos seguros para el consumo humano, que se centralizan en el manejo higiénico de los alimentos. Son un conjunto de principios y recomendaciones de carácter obligatorio que aseguran la inocuidad y la calidad de los alimentos en todas las etapas de la cadena productiva.
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -140,7 +140,7 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema1/img14.svg").mx-auto
       .col-lg
-        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) constituyen el cimiento de un sistema integral de gestión de la inocuidad y no un sistema aislado. Representan el primer eslabón y el más importante, sobre el cual se construyen otros programas prerrequisito y sistemas de calidad.
+        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) constituyen el cimiento de un sistema integral de gestión de la inocuidad y no un sistema aislado. Representan el primer eslabón y el más importante, sobre el cual se construyen otros programas prerrequisitos y sistemas de calidad.
 
 
     .row.justify-content-center.mb-5
@@ -162,6 +162,7 @@
               h4 HACCP (Análisis de Peligros y Puntos Críticos de Control):
               p.mb-0 Este es un sistema preventivo de mayor complejidad que identifica peligros específicos y establece controles en puntos críticos para garantizar la inocuidad. Para que un sistema HACCP funcione, es absolutamente necesario que los prerrequisitos, como las BPM y los POES, estén sólidamente implementados. Sin una base sólida de BPM, el sistema HACCP se vuelve inestable e ineficaz.
 
+    h4.text-bold.mb-3 Jerarquía de los sistemas de calidad e inocuidad alimentaria.
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -199,7 +200,7 @@
         figure
           img(src="@/assets/curso/tema1/img20.png", data-aos="zoom-in")
       .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
-        p.mb-4(data-aos="fade-right") Las <b>Buenas Prácticas de Manufactura (BPM)</b> constituyen la base sobre la cual se implementan los Procedimientos Operativos Estandarizados de Saneamiento (POES) y el sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP). Esta relación permite fortalecer la gestión de la calidad e inocuidad alimentaria mediante la implementación progresiva de medidas preventivas y de control.
+        p.mb-4(data-aos="fade-right") Las Buenas Prácticas de Manufactura (BPM) constituyen la base sobre la cual se implementan los Procedimientos Operativos Estandarizados de Saneamiento (POES) y el sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP). Esta relación permite fortalecer la gestión de la calidad e inocuidad alimentaria mediante la implementación progresiva de medidas preventivas y de control.
 
         .cajon.bg-color-c1.p-4.mb-0
           p.mb-0 Dentro de este sistema, las Buenas Prácticas de Manufactura se sustentan en cinco pilares fundamentales, los cuales representan las áreas críticas que toda empresa de alimentos debe gestionar para garantizar la inocuidad de sus productos. Estos pilares abarcan la infraestructura de la planta, los equipos y utensilios, el personal manipulador, las condiciones de saneamiento y el control de las materias primas. El cumplimiento de cada uno de estos pilares contribuye al funcionamiento integral del sistema y a la producción de alimentos seguros. A continuación, se presentan los cinco pilares de las Buenas Prácticas de Manufactura.

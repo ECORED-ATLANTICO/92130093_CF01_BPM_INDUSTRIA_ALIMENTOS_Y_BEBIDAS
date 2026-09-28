@@ -80,7 +80,7 @@
       separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Decreto 3075 de 1997 y Resolución 2674 de 2013
+      h2 2.2 Decreto 3075 de 1997 y Resolución 2674 de 2013: requisitos sanitarios para la fabricación de alimentos
 
 
     .row.align-items-center.mb-5
@@ -126,25 +126,25 @@
                 th Temas principales
             tbody
               tr
-                td I. Objeto y ámbito de aplicación
+                td Objeto y ámbito de aplicación
                 td Define a quiénes aplica la norma (fabricantes, distribuidores, comercializadores de alimentos).
               tr
-                td II. Buenas prácticas de manufactura
+                td Buenas prácticas de manufactura
                 td Detalla los requisitos para instalaciones, equipos, personal, materias primas, operaciones de fabricación, envases, y aseguramiento de la calidad.
               tr
-                td III. Procedimientos obligatorios
+                td Procedimientos obligatorios
                 td Exige la implementación de POES (limpieza y desinfección) y un programa de control de plagas.
               tr
-                td IV. Notificación sanitaria, permiso y registro sanitario
-                td Explica los procedimientos para obtener los permisos de funcionamiento para los alimentos.
+                td Notificación sanitaria, permiso y registro sanitario
+                td Explica los procedimientos para obtener los permisos de funcionamiento para los alimentos
               tr
-                td V. Vigilancia y control
+                td Vigilancia y control
                 td Faculta al INVIMA y a las Entidades Territoriales de Salud para realizar inspección, vigilancia y control.
 
     separador
     
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 Otras normas técnicas de referencia (NTC, ISO 22000)
+      h2 2.3 Otras normas técnicas de referencia (NTC, NTC-ISO 22000)
 
 
 

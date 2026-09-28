@@ -25,6 +25,24 @@
 
         p.mb-0(data-aos="fade-right") El contenido se desarrolla de manera progresiva. Inicialmente, se presentan las generalidades de las buenas prácticas de manufactura y el contexto normativo que sustenta su aplicación; posteriormente, se profundiza en la planeación de los registros asociados a los programas de saneamiento y, finalmente, se abordan la ejecución de las buenas prácticas de manufactura, la verificación de los procesos y las acciones de mejora continua. Al finalizar este componente, el aprendiz estará en capacidad de contribuir activamente a la producción de alimentos inocuos, fortaleciendo la cultura de la calidad en su entorno laboral y favoreciendo la protección de la salud de los consumidores.
 
+    .container
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-7.order-lg-2.order-2
+          .row.bg-color-3.align-items-center.justify-content-center.br-15.p-0
+            .col-md-8.col-lg-5.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1.p-0
+              figure
+                img(src="@/assets/curso/tema4/img39.png", data-aos="fade-right")
+            .col-lg-7.order-1.order-md-1.order-lg-2.p-4.p-lg-3
+              p(data-aos="fade-left").mb-4 A continuación, se invita a ir al siguiente podcast: 
+              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                texto="Fundamentación normativa y ejecución de BPM en la industria de alimentos y bebidas."
+                tiempo
+                :audio="require_src('@/assets/curso/audio/1.mp3')"
+              )
+        .col-lg-5.col-md-8.order-lg-1.order-1.mb-4.mb-lg-0
+          figure
+            img(src="@/assets/curso/tema4/img19.png", data-aos="zoom-in")
+
 </template>
 
 <script>

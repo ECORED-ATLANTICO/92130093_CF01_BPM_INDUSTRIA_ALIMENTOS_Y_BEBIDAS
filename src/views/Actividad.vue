@@ -23,7 +23,7 @@ export default {
         '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre la normativa sanitaria, los programas de saneamiento y la ejecución de las Buenas Prácticas de Manufactura en la industria de alimentos y bebidas.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       mensaje_aprobado:
         '¡Excelente! ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_reprobado:
@@ -59,7 +59,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Las BPM son un conjunto de principios y procedimientos de obligatorio cumplimiento, establecidos por la normativa sanitaria, para asegurar que los alimentos se produzcan en condiciones higiénicas y sean seguros para el consumo.',
+            'Las BPM son un conjunto de principios y procedimientos de obligatorio cumplimiento, establecidos por la normativa sanitaria, para asegurar que los alimentos se produzcan en condiciones higiénicas y sean seguros para el consumo.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -193,7 +193,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La Resolución 2674 de 2013 es la norma vigente que derogó el Capítulo I del Título II del Decreto 3075 de 1997 y establece los requisitos sanitarios para la elaboración, distribución y comercialización de alimentos en el país.',
+            'La Resolución 2674 de 2013 es la norma vigente que derogó el Capítulo I del Título II del Decreto 3075 de 1997 y establece los requisitos sanitarios para la elaboración, distribución y comercialización de alimentos en el país.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -227,7 +227,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La forma adecuada es tachar el dato incorrecto (dejándolo legible), anotar el nuevo dato y firmar para mantener la trazabilidad y transparencia del proceso.',
+            'La forma adecuada es tachar el dato incorrecto (dejándolo legible), anotar el nuevo dato y firmar para mantener la trazabilidad y transparencia del proceso.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -332,7 +332,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Esta práctica asegura que los productos con vencimiento más próximo se utilicen antes, evitando pérdidas y garantizando la calidad de los insumos.',
+            'Esta práctica asegura que los productos con vencimiento más próximo se utilicen antes, evitando pérdidas y garantizando la calidad de los insumos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -399,7 +399,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El abatimiento de temperatura es el proceso de reducción rápida de la temperatura de un alimento cocinado, para pasar de la zona de peligro (5 °C – 60 °C) a una temperatura de refrigeración segura en menos de 2 horas.',
+            'El abatimiento de temperatura es el proceso de reducción rápida de la temperatura de un alimento cocinado, para pasar de la zona de peligro (5 °C – 60 °C) a una temperatura de refrigeración segura en menos de 2 horas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -502,7 +502,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La normativa establece que el cloro residual libre en el agua potable debe mantenerse entre 0.3 y 2.0 ppm para garantizar su potabilidad y poder desinfectante.',
+            'La normativa establece que el cloro residual libre en el agua potable debe mantenerse entre 0.3 y 2.0 ppm para garantizar su potabilidad y poder desinfectante.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -537,7 +537,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El uso de joyas y accesorios está prohibido en las áreas de producción, ya que son focos de acumulación de suciedad y pueden caer en los alimentos, además de dificultar una correcta limpieza de manos.',
+            'El uso de joyas y accesorios está prohibido en las áreas de producción, ya que son focos de acumulación de suciedad y pueden caer en los alimentos, además de dificultar una correcta limpieza de manos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -669,7 +669,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La medición debe realizarse en la parte más gruesa del producto, asegurando que el calor haya penetrado y eliminado los patógenos en todo el alimento.',
+            'La medición debe realizarse en la parte más gruesa del producto, asegurando que el calor haya penetrado y eliminado los patógenos en todo el alimento.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

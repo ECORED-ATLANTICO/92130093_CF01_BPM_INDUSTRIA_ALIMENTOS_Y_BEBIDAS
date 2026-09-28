@@ -28,7 +28,7 @@
           figure
             img(src="@/assets/curso/tema3/img02.png", data-aos="zoom-in")
         .col-lg-6.order-2.order-lg-2
-          p.mb-3 Un Programa de Saneamiento es un documento formal, planificado y sistemático que reúne todas las actividades y procedimientos necesarios para mantener las condiciones higiénicas y sanitarias en un establecimiento de alimentos. Su objetivo principal es prevenir la contaminación de los alimentos, protegiendo así la salud del consumidor.
+          p.mb-3 Un programa de saneamiento es un documento formal, planificado y sistemático que reúne todas las actividades y procedimientos necesarios para mantener las condiciones higiénicas y sanitarias en un establecimiento de alimentos. Su objetivo principal es prevenir la contaminación de los alimentos, protegiendo así la salud del consumidor.
           p.mb-0 Todo programa de saneamiento debe estar documentado y debe incluir, al menos, cuatro subprogramas o componentes esenciales:
       
     .row.justify-content-center.mb-5
@@ -93,7 +93,7 @@
         p.mb-3 <b>Claro y sencillo:</b> debe ser fácil de entender para quien lo diligencie.
         p.mb-3 <b>Identificable:</b> debe tener un código, nombre y fecha de versión únicos.
         p.mb-3 <b>Estructurado:</b> debe tener espacios definidos para la información requerida (fecha, hora, actividad, responsable, observaciones, etc.).
-        p.mb-0 <b>Con campos para verificación:</b> debe permitir dejar constancia de que se realizó una actividad y que se cumplió con el parámetro esperado (ej. Casillas de verificación, espacios para anotar una medición).
+        p.mb-0 <b>Con campos para verificación:</b> debe permitir dejar constancia de que se realizó una actividad y que se cumplió con el parámetro esperado (ej., casillas de verificación, espacios para anotar una medición).
 
     p.mb-5 Criterios para el correcto diligenciamiento de registros:
 
@@ -139,7 +139,7 @@
           SlyderA(tipo="b").bg-color-white.p-3.tarjeta
             .tarjeta.p-4.h-100
               h4 Objetivo del muestreo
-              p.mb-0 ¿Para qué se toma la muestra? (Ej. análisis microbiológico de rutina, verificación de un lote sospechoso, liberación de un producto terminado).
+              p.mb-0 ¿Para qué se toma la muestra? Ej.: análisis microbiológico de rutina, verificación de un lote sospechoso, liberación de un producto terminado.
 
             .tarjeta.p-4.h-100
               h4 Tipo de muestra
@@ -198,7 +198,7 @@
                 td Refrigerar inmediatamente a 4 °C en una nevera portátil con geles refrigerantes.
               tr
                 td Rotulado
-                td Etiqueta con: "leche cruda", fecha, hora, proveedor, placa del vehículo, "análisis: recuento de mesófilos, grasa, proteína", "tomado por: [nombre]"
+                td Etiqueta con: "leche cruda", fecha, hora, proveedor, placa del vehículo, "análisis: recuento de mesófilos, grasa, proteína", "tomado por: [nombre]".
 
     separador
     
@@ -219,7 +219,7 @@
               img(src="@/assets/curso/tema3/img15.png", alt="Registro diario de limpieza")
           .crd_hover_txt--body.pd-1-2
             h4.mb-3.text-center Registro diario de limpieza y desinfección
-            p.mb-0 Un formato en el que, por cada área o equipo, el operario anote la fecha, la hora, la actividad realizada (ej. "limpieza de mesón de acero inoxidable"), los productos utilizados (nombre y concentración) y su firma como constancia.
+            p.mb-0 Un formato en el que, por cada área o equipo, el operario anote la fecha, la hora, la actividad realizada (ej., "limpieza de mesón de acero inoxidable"), los productos utilizados (nombre y concentración) y su firma como constancia.
 
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -228,7 +228,7 @@
               img(src="@/assets/curso/tema3/img16.png", alt="Preparación de soluciones desinfectantes")
           .crd_hover_txt--body.pd-1-2
             h4.mb-3.text-center Registro de preparación de soluciones desinfectantes
-            p.mb-0 Un formato para llevar el control de la preparación de las soluciones, verificando que se respeten las concentraciones indicadas (ej. "para preparar 10 litros de solución de hipoclorito a 200 ppm, se agregaron X ml de hipoclorito al 5 %").
+            p.mb-0 Un formato para llevar el control de la preparación de las soluciones, verificando que se respeten las concentraciones indicadas (ej.: "para preparar 10 litros de solución de hipoclorito a 200 ppm, se agregaron X ml de hipoclorito al 5 %").
 
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -254,7 +254,7 @@
       .col-lg-8.mb-0
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-3 bg-color-nuevo")
           div(titulo="Registro de inspección interna")
-            p.mb-0 Un formato para que el personal de la planta realice inspecciones periódicas (semanales o quincenales) y reporte cualquier evidencia de plagas (roedores, insectos, aves) o condiciones que puedan atraerlas (ej. huecos en paredes, residuos acumulados, agua estancada).
+            p.mb-0 Un formato para que el personal de la planta realice inspecciones periódicas (semanales o quincenales) y reporte cualquier evidencia de plagas (roedores, insectos, aves) o condiciones que puedan atraerlas (ej.: huecos en paredes, residuos acumulados, agua estancada).
 
           div(titulo="Registro de las actividades de la empresa externa de control de plagas")
             p.mb-3 La empresa contratada debe dejar un registro detallado de cada visita, que incluya:
@@ -267,19 +267,19 @@
                 | Nombre del técnico responsable.
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Productos utilizados: nombre comercial, ingrediente activo, concentración, dosis aplicada y número de lote.
+                | Productos utilizados (nombre comercial, ingrediente activo, concentración, dosis aplicada y número de lote).
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Equipos utilizados durante la intervención.
+                | Equipos utilizados.
               li 
                 i.lista-ul__vineta(style="color: #B37900")
                 | Ubicación de los cebos y trampas inspeccionados y/o reabastecidos.
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Hallazgos, por ejemplo: "se encontró un roedor muerto en el cebo #5", "se observó actividad baja de moscas".
+                | Hallazgos (ej. "se encontró un roedor muerto en el cebo # 5", "se observó actividad baja de moscas").
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Recomendaciones para la planta, por ejemplo: "sellar grieta en pared del área de almacenamiento".
+                | Recomendaciones para la planta (ej. "sellar grieta en pared del área de almacenamiento").
               li 
                 i.lista-ul__vineta(style="color: #B37900")
                 | Firma del técnico y del responsable de la planta que recibe y verifica el servicio.

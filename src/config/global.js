@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Generalidades de las Buenas Prácticas De Manufactura (BPM)',
+        titulo: 'Generalidades de las Buenas Prácticas de Manufactura (BPM)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -72,7 +72,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Otras normas técnicas de referencia (NTC, ISO 22000)',
+            titulo: 'Otras normas técnicas de referencia (NTC, NTC-ISO 22000)',
             hash: 't_2_3',
           },
         ],
@@ -128,7 +128,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Ejecución de las buenas prácticas de manufactura',
+        titulo: 'Ejecución de las Buenas Prácticas de Manufactura',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -386,8 +386,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -396,12 +396,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto temático',
+          nombre: 'Yina Paola Castro Zarate',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Enrique Coll Gallardo',
+          nombre: 'Rosmery Conde',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -411,7 +411,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta',
+          nombre: 'Andrés Felipe Herrera Roldan',
           cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -437,17 +437,17 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
