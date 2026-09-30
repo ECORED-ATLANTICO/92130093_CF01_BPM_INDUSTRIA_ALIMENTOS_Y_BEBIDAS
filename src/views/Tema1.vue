@@ -34,7 +34,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/img03.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) son una herramienta básica para la obtención de productos seguros para el consumo humano, que se centralizan en el manejo higiénico de los alimentos. Son un conjunto de principios y recomendaciones de carácter obligatorio que aseguran la inocuidad y la calidad de los alimentos en todas las etapas de la cadena productiva.
+        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) constituyen un conjunto de principios, requisitos y procedimientos de cumplimiento obligatorio, orientados a garantizar la inocuidad y la calidad de los alimentos durante todas las etapas de la cadena productiva. Su aplicación se fundamenta en el manejo higiénico de los alimentos, con el propósito de obtener productos seguros para el consumo humano.
 
 
     .row.mb-5.justify-content-center.align-items-center

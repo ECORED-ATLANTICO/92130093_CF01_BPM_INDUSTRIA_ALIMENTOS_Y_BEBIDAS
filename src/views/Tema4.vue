@@ -52,7 +52,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img05.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Este debe incluir: chaqueta o delantal (claro para detectar suciedad), pantalón, gorro que cubra totalmente el cabello, calzado antideslizante y de seguridad. Si se usa barba o bigote, se debe usar tapabocas.
+                p.mb-0 El uniforme debe incluir: chaqueta o delantal (claro para detectar suciedad), pantalón, gorro que cubra totalmente el cabello, calzado antideslizante y de seguridad. Si se usa barba o bigote, se debe usar tapabocas.
 
           div(titulo="Uñas")
             .row.align-items-center.justify-content-center
@@ -60,7 +60,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img06.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Deben estar cortas, limpias y sin esmalte.
+                p.mb-0 Las uñas deben estar cortas, limpias y sin esmalte. Las uñas largas o con esmalte pueden retener suciedad, bacterias y fragmentos que contaminen los alimentos.
 
           div(titulo="Joyas y accesorios")
             .row.align-items-center.justify-content-center
@@ -68,7 +68,7 @@
                 figure
                   img(src="@/assets/curso/tema4/img07.png", data-aos="zoom-in").mx-auto
               .col-lg-5.order-1.mb-4.mb-lg-0
-                p.mb-0 Está prohibido el uso de anillos, aretes, relojes, cadenas o cualquier otro adorno, ya que son focos de acumulación de suciedad y pueden caer en los alimentos.
+                p.mb-0 Está prohibido el uso de anillos, aretes, relojes, cadenas o cualquier otro adorno, ya que son focos de acumulación de suciedad y pueden caer en los alimentos, convirtiéndose en un peligro físico.
 
 
 

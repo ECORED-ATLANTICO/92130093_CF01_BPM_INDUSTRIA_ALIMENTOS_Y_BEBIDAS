@@ -126,19 +126,19 @@
                 th Temas principales
             tbody
               tr
-                td Objeto y ámbito de aplicación
+                td I. Objeto y ámbito de aplicación
                 td Define a quiénes aplica la norma (fabricantes, distribuidores, comercializadores de alimentos).
               tr
-                td Buenas prácticas de manufactura
+                td II. Buenas prácticas de manufactura
                 td Detalla los requisitos para instalaciones, equipos, personal, materias primas, operaciones de fabricación, envases y aseguramiento de la calidad.
               tr
-                td Procedimientos obligatorios
+                td III. Procedimientos obligatorios
                 td Exige la implementación de POES (limpieza y desinfección) y un programa de control de plagas.
               tr
-                td Notificación sanitaria, permiso y registro sanitario
-                td Explica los procedimientos para obtener los permisos de funcionamiento para los alimentos
+                td IV. Notificación sanitaria, permiso y registro sanitario
+                td Explica los procedimientos para obtener los permisos de funcionamiento para los alimentos.
               tr
-                td Vigilancia y control
+                td V. Vigilancia y control
                 td Faculta al INVIMA y a las Entidades Territoriales de Salud para realizar inspección, vigilancia y control.
 
     separador
