@@ -72,7 +72,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Otras normas técnicas de referencia (NTC, NTC-ISO 22000)',
+            titulo: 'Otras normas técnicas de referencia (NTC-ISO 22000)',
             hash: 't_2_3',
           },
         ],
