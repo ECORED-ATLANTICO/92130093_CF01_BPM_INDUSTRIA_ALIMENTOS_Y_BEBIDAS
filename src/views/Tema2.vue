@@ -130,7 +130,7 @@
                 td Define a quiénes aplica la norma (fabricantes, distribuidores, comercializadores de alimentos).
               tr
                 td Buenas prácticas de manufactura
-                td Detalla los requisitos para instalaciones, equipos, personal, materias primas, operaciones de fabricación, envases, y aseguramiento de la calidad.
+                td Detalla los requisitos para instalaciones, equipos, personal, materias primas, operaciones de fabricación, envases y aseguramiento de la calidad.
               tr
                 td Procedimientos obligatorios
                 td Exige la implementación de POES (limpieza y desinfección) y un programa de control de plagas.
