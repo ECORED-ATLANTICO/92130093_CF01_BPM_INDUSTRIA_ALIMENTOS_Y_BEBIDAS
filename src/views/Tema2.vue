@@ -144,7 +144,7 @@
     separador
     
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 Otras normas técnicas de referencia (NTC, NTC-ISO 22000)
+      h2 2.3 Otras normas técnicas de referencia (NTC-ISO 22000)
 
 
 
