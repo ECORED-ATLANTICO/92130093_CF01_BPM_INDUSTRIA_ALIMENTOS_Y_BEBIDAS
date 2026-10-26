@@ -25,14 +25,14 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema5/img02.svg").mx-auto
       .col-lg
-        p.mb-0 El ciclo de la calidad no termina con la ejecución. Es necesario verificar que todo se realizó correctamente y, si no fue así, tomar medidas para corregirlo y prevenir que vuelva a ocurrir.
+        p.mb-0 La inspección del proceso y del producto permite verificar el cumplimiento de los procedimientos establecidos y comprobar que el producto cumpla con los requisitos de calidad e inocuidad.
 
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-xl-5.mb-4.mb-lg-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema5/img03.svg' alt='Inspección del proceso')
+            img(src='@/assets/curso/tema5/img03.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               h4 Inspección del proceso
@@ -45,7 +45,7 @@
       .col-lg-6.col-xl-5.mb-0.mb-lg-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema5/img04.svg' alt='Inspección del producto')
+            img(src='@/assets/curso/tema5/img04.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               h4 Inspección del producto
@@ -100,7 +100,7 @@
       .col-lg-6.col-xl-4.col-md-12.mb-4.mb-lg-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema5/img07.svg' alt='Acción correctiva')
+            img(src='@/assets/curso/tema5/img07.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               p.mb-0 <b>Acción correctiva:</b> es la acción que se toma para eliminar la causa de una no conformidad detectada y prevenir que vuelva a ocurrir. Por ejemplo, si se detecta que la causa de una temperatura incorrecta fue un termostato averiado, la acción correctiva es reparar o cambiar el termostato.
@@ -108,7 +108,7 @@
       .col-lg-6.col-xl-4.col-md-12.mb-4.mb-lg-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema5/img08.svg' alt='Acción preventiva')
+            img(src='@/assets/curso/tema5/img08.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               p.mb-0 <b>Acción preventiva:</b> es la acción que se toma para eliminar la causa de una posible no conformidad (antes de que ocurra). Por ejemplo, si se observa que un termostato empieza a fallar de manera intermitente, se programa su cambio antes de que falle por completo, evitando así un lote de producto mal horneado.
@@ -116,7 +116,7 @@
       .col-lg-6.col-xl-4.col-md-12.mb-0.mb-lg-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema5/img09.svg' alt='Mejora continua')
+            img(src='@/assets/curso/tema5/img09.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               p.mb-0 <b>Mejora continua:</b> es un esfuerzo constante por mejorar los procesos, productos o servicios. Se basa en el ciclo PHVA (Planificar-Hacer-Verificar-Actuar). Las acciones correctivas y preventivas alimentan este ciclo. El objetivo no es solo corregir errores, sino ser cada vez mejores.

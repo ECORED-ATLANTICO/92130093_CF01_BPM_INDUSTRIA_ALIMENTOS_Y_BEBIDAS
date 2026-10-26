@@ -32,39 +32,39 @@
           p.mb-0 Todo programa de saneamiento debe estar documentado y debe incluir, al menos, cuatro subprogramas o componentes esenciales:
       
     .row.justify-content-center.mb-5
-      .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-6.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img03.png", alt="Programa de limpieza y desinfección")
-          .crd_hover_txt--body.bg-color-2.pd-1-2
+              img(src="@/assets/curso/tema3/img03.png", alt="")
+          .crd_hover_txt--body.bg-color-2.p-3
             h4.mb-4.text-center Programa de limpieza y desinfección
             p.mb-0 Establece los procedimientos estandarizados de limpieza y desinfección de instalaciones, equipos y utensilios. Incluye fichas técnicas, concentraciones, frecuencias y responsables de cada actividad. Su eficacia se verifica mediante inspección visual, pruebas de ATP o análisis microbiológicos.
 
-      .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-6.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img04.png", alt="Programa de control de plagas y vectores")
-          .crd_hover_txt--body.bg-color-2.pd-1-2
+              img(src="@/assets/curso/tema3/img04.png", alt="")
+          .crd_hover_txt--body.bg-color-2.p-3
             h4.mb-4.text-center Programa de control de plagas y vectores
             p.mb-0 Comprende las actividades de manejo integrado de plagas (MIP), incluyendo monitoreo, medidas preventivas, controles físicos y químicos realizados por empresas autorizadas y el registro de las intervenciones.
 
-      .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-6.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img05.png", alt="Programa de abastecimiento de agua potable")
-          .crd_hover_txt--body.bg-color-2.pd-1-2
+              img(src="@/assets/curso/tema3/img05.png", alt="")
+          .crd_hover_txt--body.bg-color-2.p-3
             h4.mb-4.text-center Programa de abastecimiento de agua potable
             p.mb-0 Garantiza que el agua utilizada durante la producción cumpla con los requisitos de potabilidad mediante controles periódicos, mantenimiento de tanques y análisis fisicoquímicos y microbiológicos.
 
-      .col-xl-3.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-6.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img06.png", alt="Programa de manejo de residuos sólidos y líquidos")
-          .crd_hover_txt--body.bg-color-2.pd-1-2
+              img(src="@/assets/curso/tema3/img06.png", alt="")
+          .crd_hover_txt--body.bg-color-2.p-3
             h4.mb-4.text-center Programa de manejo de residuos sólidos y líquidos
             p.mb-0 Establece los procedimientos para la separación en la fuente, el almacenamiento temporal, la recolección y la disposición final de los residuos generados durante el proceso productivo.
 
@@ -216,26 +216,26 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img15.png", alt="Registro diario de limpieza")
-          .crd_hover_txt--body.pd-1-2
+              img(src="@/assets/curso/tema3/img15.png", alt="")
+          .crd_hover_txt--body.p-3
             h4.mb-3.text-center Registro diario de limpieza y desinfección
-            p.mb-0 Un formato en el que, por cada área o equipo, el operario anote la fecha, la hora, la actividad realizada (ej., "limpieza de mesón de acero inoxidable"), los productos utilizados (nombre y concentración) y su firma como constancia.
+            p.mb-0 Un formato en el que, por cada área o equipo, el operario anote la fecha, la hora, la actividad realizada (Ej.: "limpieza de mesón de acero inoxidable"), los productos utilizados (nombre y concentración) y su firma como constancia.
 
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img16.png", alt="Preparación de soluciones desinfectantes")
-          .crd_hover_txt--body.pd-1-2
+              img(src="@/assets/curso/tema3/img16.png", alt="")
+          .crd_hover_txt--body.p-3
             h4.mb-3.text-center Registro de preparación de soluciones desinfectantes
-            p.mb-0 Un formato para llevar el control de la preparación de las soluciones, verificando que se respeten las concentraciones indicadas (ej.: "para preparar 10 litros de solución de hipoclorito a 200 ppm, se agregaron X ml de hipoclorito al 5 %").
+            p.mb-0 Un formato para llevar el control de la preparación de las soluciones, verificando que se respeten las concentraciones indicadas (Ej.: "para preparar 10 litros de solución de hipoclorito a 200 ppm, se agregaron X ml de hipoclorito al 5 %").
 
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/img17.png", alt="Verificación de limpieza y desinfección")
-          .crd_hover_txt--body.pd-1-2
+              img(src="@/assets/curso/tema3/img17.png", alt="")
+          .crd_hover_txt--body.p-3
             h4.mb-3.text-center Registro de verificación de la limpieza y desinfección
             p.mb-0 Un formato que puede ser diligenciado por un supervisor, mediante la toma de muestras con hisopos en superficies para verificar la eficacia de la limpieza (pruebas de ATP o recuento microbiológico) o simplemente mediante inspección visual.
 
@@ -270,16 +270,16 @@
                 | Productos utilizados (nombre comercial, ingrediente activo, concentración, dosis aplicada y número de lote).
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Equipos utilizados.
+                | Equipos utilizados durante la intervención.
               li 
                 i.lista-ul__vineta(style="color: #B37900")
                 | Ubicación de los cebos y trampas inspeccionados y/o reabastecidos.
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Hallazgos (ej. "se encontró un roedor muerto en el cebo # 5", "se observó actividad baja de moscas").
+                | Hallazgos (ej.: "se encontró un roedor muerto en el cebo # 5", "se observó actividad baja de moscas").
               li 
                 i.lista-ul__vineta(style="color: #B37900")
-                | Recomendaciones para la planta (ej. "sellar grieta en pared del área de almacenamiento").
+                | Recomendaciones para la planta, (ej.: "sellar grieta en pared del área de almacenamiento").
               li 
                 i.lista-ul__vineta(style="color: #B37900")
                 | Firma del técnico y del responsable de la planta que recibe y verifica el servicio.

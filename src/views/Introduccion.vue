@@ -33,7 +33,7 @@
               figure
                 img(src="@/assets/curso/tema4/img39.png", data-aos="fade-right")
             .col-lg-7.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 A continuación, se invita a ir al siguiente podcast: 
+              p(data-aos="fade-left").mb-4 A continuación, se invita al siguiente pódcast: 
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Fundamentación normativa y ejecución de BPM en la industria de alimentos y bebidas."
                 tiempo

@@ -84,7 +84,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img09.svg' alt='Al ingresar al área de producción')
+            img(src='@/assets/curso/tema4/img09.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Al ingresar al área de producción
@@ -93,7 +93,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img10.svg' alt='Después de ir al baño')
+            img(src='@/assets/curso/tema4/img10.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Después de ir al baño
@@ -102,7 +102,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img11.svg' alt='Después de manipular basura')
+            img(src='@/assets/curso/tema4/img11.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Después de manipular basura
@@ -111,7 +111,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img12.svg' alt='Después de estornudar o toser')
+            img(src='@/assets/curso/tema4/img12.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Después de estornudar o toser
@@ -120,7 +120,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img13.svg' alt='Después de manipular alimentos crudos')
+            img(src='@/assets/curso/tema4/img13.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Después de manipular alimentos crudos
@@ -129,7 +129,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-0
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img14.svg' alt='Cada vez que se cambie de actividad')
+            img(src='@/assets/curso/tema4/img14.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               h4 Cada vez que se cambie de actividad
@@ -150,7 +150,7 @@
           .col-lg-12.col-xl-12.mb-4.mb-lg-4.mb-xl-4
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema4/img16.svg' alt='Prohibido comer o beber')
+                img(src='@/assets/curso/tema4/img16.svg' alt='')
               .tarjeta.bg-color-2.h-100
                 .p-4
                   p.mb-0 No está permitido comer, beber, fumar o masticar chicle en las áreas de producción.
@@ -158,7 +158,7 @@
           .col-lg-12.col-xl-12.mb-4.mb-lg-4.mb-xl-4
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema4/img17.svg' alt='No estornudar sobre alimentos')
+                img(src='@/assets/curso/tema4/img17.svg' alt='')
               .tarjeta.bg-color-2.h-100
                 .p-4
                   p.mb-0 No se debe estornudar o toser sobre los alimentos.
@@ -166,7 +166,7 @@
           .col-lg-12.col-xl-12.mb-0
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema4/img18.svg' alt='Mantener el área limpia')
+                img(src='@/assets/curso/tema4/img18.svg' alt='')
               .tarjeta.bg-color-2.h-100
                 .p-4
                   p.mb-0 Se debe mantener el área de trabajo ordenada y limpia durante la producción.
@@ -234,14 +234,15 @@
           h3.titulo-con-imagen__texto A. Técnicas de limpieza: prelavado, lavado, enjuague.
     
     p.mb-4 La limpieza es el proceso que elimina la suciedad visible (restos de comida, grasa, polvo). Es un paso fundamental antes de la desinfección.
-
     
+    h4.mb-4 Etapas de las técnicas de limpieza
+
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img22.png", alt="Prelavado")
+              img(src="@/assets/curso/tema4/img22.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Prelavado
             p.mb-0 Consiste en retirar los residuos sólidos más grandes. Se puede hacer raspando con una espátula, cepillando en seco o con un chorro suave de agua. El objetivo es reducir la carga de suciedad para que el lavado sea más efectivo.
@@ -250,7 +251,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img23.png", alt="Lavado")
+              img(src="@/assets/curso/tema4/img23.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Lavado
             p.mb-0 Se aplica una solución de agua caliente (45 °C - 50 °C) con un detergente desengrasante. La acción mecánica (frotar con cepillo o esponja) es crucial para desprender la grasa y la suciedad adherida.
@@ -259,7 +260,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img24.png", alt="Enjuague")
+              img(src="@/assets/curso/tema4/img24.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Enjuague
             p.mb-0 Se elimina completamente la suciedad y los residuos de detergente con abundante agua potable. Este paso es esencial, ya que los residuos de detergente pueden interferir con la acción del desinfectante.
@@ -410,7 +411,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img31.svg' alt='Pisos, paredes y techos')
+            img(src='@/assets/curso/tema4/img31.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Pisos, paredes y techos
@@ -419,7 +420,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img32.svg' alt='Iluminación y ventilación')
+            img(src='@/assets/curso/tema4/img32.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Iluminación y ventilación
@@ -428,7 +429,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img33.svg' alt='Puertas y ventanas')
+            img(src='@/assets/curso/tema4/img33.svg' alt='')
           .tarjeta.bg-color-3
             .p-4
               h4 Puertas y ventanas
@@ -437,7 +438,7 @@
       .col-lg-6.col-xl-5.mb-4.mb-lg-4.mb-xl-0
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema4/img34.svg' alt='Drenajes y rejillas')
+            img(src='@/assets/curso/tema4/img34.svg' alt='')
           .tarjeta.bg-color-3.h-100
             .p-4
               h4 Drenajes y rejillas
@@ -464,7 +465,7 @@
             ul.lista-ul.mb-0
               li
                 i.lista-ul__vineta(style="color: #B37900")
-                | Condiciones del vehículo de transporte (limpieza, temperatura).
+                | Condiciones del vehículo de transporte: limpieza, temperatura.
               li
                 i.lista-ul__vineta(style="color: #B37900")
                 | Empaques: que estén íntegros, sin roturas, humedad o signos de contaminación.

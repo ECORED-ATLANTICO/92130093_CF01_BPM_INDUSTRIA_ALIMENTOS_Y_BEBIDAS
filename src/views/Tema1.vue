@@ -52,7 +52,7 @@
               p.mb-0 Es el principal objetivo de las Buenas Prácticas de Manufactura. Consiste en prevenir la contaminación de los alimentos durante todas las etapas del proceso productivo, garantizando que sean aptos para el consumo humano y no representen un riesgo para la salud.
             .col-12.col-lg-6
               figure
-                img(src="@/assets/curso/tema1/img05.png", alt="Garantizar la inocuidad").img-fluid
+                img(src="@/assets/curso/tema1/img05.png", alt="").img-fluid
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0
@@ -61,7 +61,7 @@
               p.mb-0 Las BPM permiten obtener productos con características uniformes y acordes con los estándares de calidad establecidos por la organización, favoreciendo la satisfacción del cliente y el mejoramiento continuo de los procesos.
             .col-12.col-lg-6
               figure
-                img(src="@/assets/curso/tema1/img06.png", alt="Asegurar la calidad").img-fluid
+                img(src="@/assets/curso/tema1/img06.png", alt="").img-fluid
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0
@@ -70,7 +70,7 @@
               p.mb-0 La implementación de las BPM garantiza el cumplimiento de la legislación sanitaria vigente, asegurando que los procesos de producción se desarrollen conforme a los requisitos establecidos por las autoridades competentes.
             .col-12.col-lg-6
               figure
-                img(src="@/assets/curso/tema1/img07.png", alt="Cumplir con la normativa sanitaria").img-fluid
+                img(src="@/assets/curso/tema1/img07.png", alt="").img-fluid
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0
@@ -79,7 +79,7 @@
               p.mb-0 Las BPM promueven hábitos de trabajo responsables y fortalecen el compromiso del personal con la higiene, la inocuidad y la mejora continua, favoreciendo una cultura organizacional orientada a la calidad.
             .col-12.col-lg-6
               figure
-                img(src="@/assets/curso/tema1/img08.png", alt="Fortalecer la cultura de calidad").img-fluid
+                img(src="@/assets/curso/tema1/img08.png", alt="").img-fluid
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0
@@ -88,7 +88,7 @@
               p.mb-0 La producción de alimentos inocuos y de calidad fortalece la confianza de los consumidores, mejora la reputación de la organización y contribuye a la permanencia de sus productos en el mercado.
             .col-12.col-lg-6
               figure
-                img(src="@/assets/curso/tema1/img09.png", alt="Generar confianza en el consumidor").img-fluid
+                img(src="@/assets/curso/tema1/img09.png", alt="").img-fluid
 
     separador
     
@@ -168,7 +168,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img17.png", alt="HACCP")
+              img(src="@/assets/curso/tema1/img17.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Nivel superior
             h4 Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP)
@@ -178,7 +178,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img18.png", alt="POES")
+              img(src="@/assets/curso/tema1/img18.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Nivel intermedio
             h4 Procedimientos Operativos Estandarizados de Saneamiento (POES)
@@ -188,7 +188,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img19.png", alt="BPM")
+              img(src="@/assets/curso/tema1/img19.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Nivel base
             h4 Buenas Prácticas de Manufactura (BPM)
